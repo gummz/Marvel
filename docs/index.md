@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to our Marvel Universe project
 
 You can use the [editor on GitHub](https://github.com/gummz/Marvel/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -38,6 +38,7 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+3. docs!
 
 **Bold** and _Italic_ and `Code` text
 
