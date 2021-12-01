@@ -1,5 +1,5 @@
 baseURL = "https://gummz.github.io/Marvel/"
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'ananke'
+theme = "jekyll-midnight"
 publishDir = 'docs'
