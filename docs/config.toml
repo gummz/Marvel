@@ -1,0 +1,5 @@
+baseURL = "https://gummz.github.io/Marvedddl/"
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ananke'
+publishDir = 'docs'
